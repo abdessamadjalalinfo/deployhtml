@@ -1,1 +1,1 @@
-<?php include_once("Annuaire2.mhtml"); ?>
+<?php include_once("2.html"); ?>
